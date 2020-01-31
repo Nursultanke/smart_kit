@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartKit</string>
+    <string name="title_light">Light</string>
+    <string name="title_socket">Socket</string>
+    <string name="title_temperature">Temperature</string>
+    <string name="title_security">Security</string>
+</resources>
